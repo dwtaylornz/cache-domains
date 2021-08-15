@@ -1,2 +1,2 @@
-faforever.com
-*.faforever.com
+content.faforever.com
+*.content.faforever.com
