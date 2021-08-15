@@ -126,6 +126,11 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+		},
+		{
+			"name": "faforever",
+			"description": "CDN for FAF",
+			"domain_files": ["faforever.txt"]
 		}
 	]
 }
